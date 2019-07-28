@@ -4,7 +4,7 @@
 	<parent>
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 
-<!---- new comment is added -->
+		<!---- new comment is added -->
 
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-samples</artifactId>
